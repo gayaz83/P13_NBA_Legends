@@ -27,6 +27,7 @@ body {
 
 .player-logo {
   height: 350px;
+  object-fit: cover;
   transition: transform 0.2s;
 }
 
